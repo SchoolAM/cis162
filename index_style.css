@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+
+
+	
+/*
+    Date:   02/25/2022
+*/
+
+
+html{
+	background-color: hsl(194, 30%, 56%);
+	
+	}
+	
+	
+	
+body{
+		background-color: hsl(183, 82%, 68%);	
+		
+		
+	}
+
+
+h1,h2,h3 {
+		font-size: 160%;
+		
+		font-family: "Lucida Console", Monospace;
+		letter-spacing: 1px;
+		font-weight: 800;
+  }
+
+ p, article{
+	    font-family: "Times New Roman", Times, serif;
+		color: white;
+	  
+  }
+ul{
+	background-color: hsl(194, 30%, 56%);
+	list-style-type: none;
+	text-align: center;
+	
+	}
+li{
+	
+	margin: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	
+}
+
+header{
+	font-size: 160%;
+		
+		font-family: "Lucida Console", Monospace;
+		letter-spacing: 1px;
+		font-weight: 800;
+  }
+	
+	
+footer {
+	
+	text-align: center;
+	font-family: Garamond, Georgia, serif;
+	background-color: orange;
+	line-height: 1.2;
+}
+	
+	
+	
+	
+	
+
+	
+	
